@@ -5,7 +5,7 @@ website:
   title: "VAP_website"
   navbar:
     left:
-      - href: index.qmd
+      - href: index.html
         text: Home
       - about.qmd
 
